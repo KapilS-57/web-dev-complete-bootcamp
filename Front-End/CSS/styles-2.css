@@ -1,0 +1,29 @@
+body {
+    background-color: lightgrey;
+    margin: 80px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: large;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color: teal;
+    font-family: 'fira', sans-serif;
+}
+
+p {
+    color: darkgreen;
+}
+ol{
+    list-style: none;
+}
+#specific{
+    color: brown;
+}
